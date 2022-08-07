@@ -6,7 +6,7 @@
 
 > [DAYEAYEAYEA 購物網站](https://jackielin7789978.github.io/DAYEAYEAYEA-frontend/)
 
-> [管理後台](https://jackielin7789978.github.io/DAYEAYEAYEA-frontend/admin/login)：測試帳號 admin01 / 密碼: Admin1357
+> [管理後台](https://jackielin7789978.github.io/DAYEAYEAYEA-frontend/#/admin/login)：測試帳號 admin01 / 密碼: Admin1357
 
 ![](https://i.imgur.com/nSdyHE7.gif)
 ![](https://i.imgur.com/znJvjej.png)
